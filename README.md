@@ -1,4 +1,4 @@
 # 0r-hackingminigame
 FiveM Advanced Minigame Scripts
 
-Join our discord server for more: https://discord.com/invite/0resmon
+For more free scripts and join our discord server: https://discord.com/invite/0resmon
